@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1509410155 source:d:\c++\fifa 3.0\src\equipo.cpp
+	"equipo.h"
+	<iostream>
+	<string>
+	"jugador.h"
+
+1509411313 d:\c++\fifa 3.0\include\equipo.h
+	<string>
+	"jugador.h"
+
+1509410638 d:\c++\fifa 3.0\include\jugador.h
+	<iostream>
+	<string>
+
+1509410334 source:d:\c++\fifa 3.0\main.cpp
+	<iostream>
+	"jugador.h"
+	"equipo.h"
+	<string>
+
+1509410638 source:d:\c++\fifa 3.0\src\jugador.cpp
+	"jugador.h"
+	<iostream>
+	<string>
+
