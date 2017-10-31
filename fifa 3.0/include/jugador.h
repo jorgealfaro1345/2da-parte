@@ -15,6 +15,11 @@ class jugador
         jugador();
         jugador(string nombre,int numero,string posicion,int animo );
 
+        void setnombre(string _nombre);
+        void setnumero(int _numero);
+        void setposicion(string _posicion);
+        void setanimo(int _animo);
+
         void mostrar();
 
 
