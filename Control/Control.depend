@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1510029291 source:d:\users\pavilion\documents\github\2da-parte-trabajos\control\main.cpp
+	<iostream>
+	"Poligono.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1510032098 d:\users\pavilion\documents\github\2da-parte-trabajos\control\include\poligono.h
+
+1510030612 d:\users\pavilion\documents\github\2da-parte-trabajos\control\include\rectangulo.h
+	"Poligono.h"
+
+1510030612 d:\users\pavilion\documents\github\2da-parte-trabajos\control\include\triangulo.h
+	"Poligono.h"
+
+1510029392 source:d:\users\pavilion\documents\github\2da-parte-trabajos\control\src\poligono.cpp
+	"Poligono.h"
+
+1510030212 source:d:\users\pavilion\documents\github\2da-parte-trabajos\control\src\rectangulo.cpp
+	"Rectangulo.h"
+	"Poligono.h"
+
